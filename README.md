@@ -119,7 +119,6 @@ Final Part :
 
 Explanation : The final part refers to the component or material after undergoing heat treatment, which modifies its properties. It exhibits improved mechanical properties, dimensional stability, surface characteristics, and material integrity. It is inspected to ensure it meets specifications and is suitable for its intended application.
 
-## Output:
 
 ### Name: SUBALAKSHMI.S
 ### Register Number: 212222100051
